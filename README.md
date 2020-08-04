@@ -7,3 +7,5 @@ Completely designed using materialize css
 ![](screenshots/s4.png)
 ![](screenshots/s5.png)
 
+# Install
+Just download the project and its up running in no time. No installs required!
